@@ -7,3 +7,4 @@ const bgImage = document.createElement('img');
 bgImage.src = `img/${chooseImage}`;
 
 document.body.appendChild(bgImage);
+
