@@ -1,3 +1,14 @@
 .hidden{
   display : none;
 }
+
+#clock{
+  font-weight: 500;
+  font-size: 1050%;
+  letter-spacing: -5px;
+}
+
+body{
+  text-align: center;
+  background-image: ;
+}
