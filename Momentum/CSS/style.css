@@ -4,11 +4,32 @@
 
 #clock{
   font-weight: 500;
-  font-size: 1050%;
+  font-size: 750%;
+  box-sizing: border-box;
   letter-spacing: -5px;
+  padding: 0 100px 0 100px;
+  margin: 0 auto;
 }
 
 body{
-  text-align: center;
-  background-image: ;
+  text-align: center; 
+  background-image: url(/Momentum/img/1.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
+
+#greeting{
+  font-size: 54px;
+  margin: 0 auto;
+}
+
+.todo-box{
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+  border-bottom: 2px solid;
+  width: 80%;
 }
